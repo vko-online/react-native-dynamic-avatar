@@ -1,0 +1,37 @@
+{
+  "name": "react-native-dynamic-avatar",
+  "version": "1.0.1",
+  "description": "Dynamic avatars for react-native",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "index.tsx",
+    "colors.json"
+  ],
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vko-online/react-native-dynamic-avatar.git"
+  },
+  "keywords": [
+    "react-native",
+    "dynamic",
+    "avatar"
+  ],
+  "author": "Medet Tleukabiluly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vko-online/react-native-dynamic-avatar/issues"
+  },
+  "homepage": "https://github.com/vko-online/react-native-dynamic-avatar#readme",
+  "dependencies": {
+    "@types/node": "^13.5.0",
+    "@types/react": "^16.9.19",
+    "@types/react-native": "^0.61.4",
+    "react": "^16.12.0",
+    "react-native-svg": "^11.0.1"
+  }
+}
